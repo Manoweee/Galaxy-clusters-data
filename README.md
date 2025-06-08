@@ -1,6 +1,6 @@
 # Galaxy Clusters Data
 
-This repository contains compiled information on 30 galaxy clusters. The dataset includes the following details for each cluster:
+This repository contains compiled information on 30 galaxy clusters which are used in my research. The dataset includes the following details for each cluster:
 
 - **Cluster Name**
 - **Equatorial Coordinates (RA, Dec)**
